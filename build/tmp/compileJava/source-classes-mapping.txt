@@ -1,2 +1,22 @@
+com/multipledatabase/demo/repository/student/StudentRepository.java
+ com.multipledatabase.demo.repository.student.StudentRepository
+com/multipledatabase/demo/repository/course/CourseRepository.java
+ com.multipledatabase.demo.repository.course.CourseRepository
+com/multipledatabase/demo/commandObject/student/StudentCO.java
+ com.multipledatabase.demo.commandObject.student.StudentCO
+com/multipledatabase/demo/commandObject/course/CourseCO.java
+ com.multipledatabase.demo.commandObject.course.CourseCO
+com/multipledatabase/demo/model/student/Student.java
+ com.multipledatabase.demo.model.student.Student
+com/multipledatabase/demo/valueObject/api/ApiResponseVO.java
+ com.multipledatabase.demo.valueObject.api.ApiResponseVO
+com/multipledatabase/demo/model/course/Course.java
+ com.multipledatabase.demo.model.course.Course
+com/multipledatabase/demo/valueObject/student/StudentVO.java
+ com.multipledatabase.demo.valueObject.student.StudentVO
 com/multipledatabase/demo/DemoApplication.java
  com.multipledatabase.demo.DemoApplication
+com/multipledatabase/demo/service/student/StudentService.java
+ com.multipledatabase.demo.service.student.StudentService
+com/multipledatabase/demo/controller/student/StudentController.java
+ com.multipledatabase.demo.controller.student.StudentController
